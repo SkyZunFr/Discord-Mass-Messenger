@@ -1,6 +1,8 @@
 # Discord Mass Messenger
 
 A Discord mass messaging tool (server/dms)
+- Scraping all conversation and sending them choosed message 
+- Scraping all servers sending choosed message in every channel ( checking permission to avoid flooding in req )
 
 ## Setup
 
@@ -20,14 +22,6 @@ A Discord mass messaging tool (server/dms)
    ```
    python main.py
    ```
-
-## Configuration (config.json)
-
-| Option | Description | Default |
-|--------|-------------|---------|
-| message_to_send | Message to send | "Hello!" |
-| delay_between_conversations | Delay in seconds between DM conversations | 1 |
-| delay_between_channels | Delay in seconds between channels | 0.5 |
 
 ## Files
 
