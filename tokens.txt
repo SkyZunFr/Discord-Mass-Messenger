@@ -1,0 +1,2 @@
+# Add your Discord tokens here, one per line
+# Example: MTIzNDU2Nzg5MDEyMzQ1Njc4.XXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXX

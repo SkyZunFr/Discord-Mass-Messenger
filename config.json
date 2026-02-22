@@ -1,0 +1,5 @@
+{
+  "message_to_send": "Hello!",
+  "delay_between_conversations": 1,
+  "delay_between_channels": 0.5
+}
